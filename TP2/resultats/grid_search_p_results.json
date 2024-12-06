@@ -1,0 +1,2162 @@
+[
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7397343806379133
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7647182616466166
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7412599838224962
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7481642078577538
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7137707845089178
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7357953867605787
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7613233613841434
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7365613783872762
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7449665603551773
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.711624167698018
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7358376930467421
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7615267927692456
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7378597358060638
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7459293268662567
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7118650371437548
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7232503235764804
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7483164075281674
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7232237597799378
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7340078889217729
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6868032941859793
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7227517327733286
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7474840780034835
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7229719768276419
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7340126501459978
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6884146756337717
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7202407814550731
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7449903210482615
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7209818437332645
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7323383807995417
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6855616554829651
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6950904512300513
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7200743946086088
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6938138217906131
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6991219455203118
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6479713225026293
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.69116280352847
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7155651925701542
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6889464442780026
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6934304914060798
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6406916525239732
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6909684046205905
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.7152503594855959
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.688200043726204
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6933154659176658
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6414613141963323
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6757072301024938
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6997451081330354
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6714701642640428
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6758274283081794
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6193125334266334
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6736462512401548
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6973093479490712
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6679832549922399
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6705506945394728
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6100640011550139
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6701591975256586
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6935135516880906
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6654680316810933
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6669003372179994
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "average_f1_score": 0.6072202279555456
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7397343806379133
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7647182616466166
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7412599838224962
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7481642078577538
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7137707845089178
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7357953867605787
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7613233613841434
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7365613783872762
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7449665603551773
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.711624167698018
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7358376930467421
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7615267927692456
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7378597358060638
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7459293268662567
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7118650371437548
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7232503235764804
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7483164075281674
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7232237597799378
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7340078889217729
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6868032941859793
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7227517327733286
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7474840780034835
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7229719768276419
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7340126501459978
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6884146756337717
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7202407814550731
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7449903210482615
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7209818437332645
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7323383807995417
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6855616554829651
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6950904512300513
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7200743946086088
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.69386584780615
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6991219455203118
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6479713225026293
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.69116280352847
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7155651925701542
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6890392699482855
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6934304914060798
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6406916525239732
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6909684046205905
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.7152503594855959
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6882516726205584
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6933154659176658
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6414613141963323
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6757412748427221
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6997451081330354
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6714701642640428
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6758274283081794
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6193125334266334
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6737334765023778
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6973093479490712
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6679832549922399
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6705506945394728
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6100640011550139
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.670272685587776
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6935135516880906
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6654680316810933
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6669003372179994
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "average_f1_score": 0.6072202279555456
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7397343806379133
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7647182616466166
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7412599838224962
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7481642078577538
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7137707845089178
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7357953867605787
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7613233613841434
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7365613783872762
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7449665603551773
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.711624167698018
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7358376930467421
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7615267927692456
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7378597358060638
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7459293268662567
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7118650371437548
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7232503235764804
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7483164075281674
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7232237597799378
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7340078889217729
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6868032941859793
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7227517327733286
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7474840780034835
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7229719768276419
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7340126501459978
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6884146756337717
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7202407814550731
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7449903210482615
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7209818437332645
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7323383807995417
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6855616554829651
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6950904512300513
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7200743946086088
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.69386584780615
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6991816158471076
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6479713225026293
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.69116280352847
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7155651925701542
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6890392699482855
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6935379261784994
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6406916525239732
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6909684046205905
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.7152503594855959
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6882516726205584
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6933747550134179
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6414613141963323
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6758414914584459
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6997873467627883
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6715126215777127
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6758274283081794
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6193125334266334
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6738590008496524
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6975207403930057
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6679832549922399
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6705506945394728
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6100640011550139
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6703166175214461
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.693759708094942
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6654680316810933
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6669003372179994
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "average_f1_score": 0.6072202279555456
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7397343806379133
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7647182616466166
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7412599838224962
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7481642078577538
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7137707845089178
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7357953867605787
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7613233613841434
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7365613783872762
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7449665603551773
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.711624167698018
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7358376930467421
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7615267927692456
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7378597358060638
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7459293268662567
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7118650371437548
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7232503235764804
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7483164075281674
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7232237597799378
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7340078889217729
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6868032941859793
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7227517327733286
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7474840780034835
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7229719768276419
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7340126501459978
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6884146756337717
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7202407814550731
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7449903210482615
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7209818437332645
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7323383807995417
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6855616554829651
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6950904512300513
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7200743946086088
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6939163017556457
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6991816158471076
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6479713225026293
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.69116280352847
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7155651925701542
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6890392699482855
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6935379261784994
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6406916525239732
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6909684046205905
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.7152503594855959
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6883022795568494
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6933747550134179
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6414613141963323
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6759515116312494
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6999055846012762
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6715126215777127
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6758274283081794
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6193125334266334
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6738590008496524
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6976284609797292
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6679832549922399
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6705506945394728
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6100640011550139
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6703166175214461
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6938703782380403
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6654680316810933
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6669003372179994
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "average_f1_score": 0.6072202279555456
+    }
+]

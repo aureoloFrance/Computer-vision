@@ -1,0 +1,409 @@
+[
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.44842389304550473,
+        "recall": 0.8679962013295347,
+        "f1_score": 0.5913465426607359
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.7729850141757797,
+        "recall": 0.7736116740980948,
+        "f1_score": 0.7732982171799029
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "accuracy": 0.5654942828195108,
+        "recall": 0.8521264994547437,
+        "f1_score": 0.679832956325039
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.7280738564834243,
+        "recall": 0.7738626226583407,
+        "f1_score": 0.7502702702702703
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.5365149222940448,
+        "recall": 0.8703703703703703,
+        "f1_score": 0.663830511358802
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.5581028800687777,
+        "recall": 0.8636363636363636,
+        "f1_score": 0.6780398642179475
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.5872051970060725,
+        "recall": 0.8537987679671458,
+        "f1_score": 0.6958413521881013
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.5657251493753395,
+        "recall": 0.8355395106297633,
+        "f1_score": 0.674655870445344
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.5740849194729136,
+        "recall": 0.859679894759921,
+        "f1_score": 0.6884382407163551
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.7280738564834243,
+        "recall": 0.7738626226583407,
+        "f1_score": 0.7502702702702703
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.6942051022132117,
+        "recall": 0.8430447271235125,
+        "f1_score": 0.7614194385249698
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.679090113735783,
+        "recall": 0.8455337690631808,
+        "f1_score": 0.7532265890344493
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.694755877034358,
+        "recall": 0.8492484526967286,
+        "f1_score": 0.764272926198528
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.5654942828195108,
+        "recall": 0.8521264994547437,
+        "f1_score": 0.679832956325039
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.3938484621155289,
+        "recall": 0.8902616279069767,
+        "f1_score": 0.5461029794189761
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.7280738564834243,
+        "recall": 0.7738626226583407,
+        "f1_score": 0.7502702702702703
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.7373865315600591,
+        "recall": 0.7856500224921278,
+        "f1_score": 0.7607535663726451
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 40,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.548490687219011,
+        "recall": 0.8864438447166286,
+        "f1_score": 0.6776702110776067
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.6055701370662001,
+        "recall": 0.8522470757233737,
+        "f1_score": 0.708038530389566
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "accuracy": 0.7582918739635157,
+        "recall": 0.7826272999572101,
+        "f1_score": 0.7702674247209939
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.6055701370662001,
+        "recall": 0.8522470757233737,
+        "f1_score": 0.708038530389566
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.3868064379500212,
+        "recall": 0.883220502901354,
+        "f1_score": 0.5379970544918998
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.6056314836160053,
+        "recall": 0.8468800368408934,
+        "f1_score": 0.7062211981566819
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 32,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.766541822721598,
+        "recall": 0.7829968119022317,
+        "f1_score": 0.7746819472190096
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "accuracy": 0.7465230166503428,
+        "recall": 0.766184157619622,
+        "f1_score": 0.7562258160531797
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 8
+        },
+        "accuracy": 0.679090113735783,
+        "recall": 0.8455337690631808,
+        "f1_score": 0.7532265890344493
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 32,
+            "disk_size": 4,
+            "diameter_threshold": 11
+        },
+        "accuracy": 0.6096943083938524,
+        "recall": 0.8428671491944898,
+        "f1_score": 0.7075656605252844
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 40,
+            "disk_size": 5,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.5654942828195108,
+        "recall": 0.8521264994547437,
+        "f1_score": 0.679832956325039
+    },
+    {
+        "params": {
+            "l": 4,
+            "kernel_size": 48,
+            "disk_size": 3,
+            "diameter_threshold": 8
+        },
+        "accuracy": 0.7543968549555142,
+        "recall": 0.7713137296382484,
+        "f1_score": 0.7627615062761507
+    },
+    {
+        "params": {
+            "l": 3,
+            "kernel_size": 32,
+            "disk_size": 6,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.5733369683751364,
+        "recall": 0.8656102078617,
+        "f1_score": 0.6897908979089791
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 8
+        },
+        "accuracy": 0.513529838125151,
+        "recall": 0.8619221411192214,
+        "f1_score": 0.6436033308099924
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 5,
+            "diameter_threshold": 8
+        },
+        "accuracy": 0.49495346703368726,
+        "recall": 0.8575970928912106,
+        "f1_score": 0.6276595744680851
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.6056314836160053,
+        "recall": 0.8468800368408934,
+        "f1_score": 0.7062211981566819
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 40,
+            "disk_size": 3,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.7465230166503428,
+        "recall": 0.766184157619622,
+        "f1_score": 0.7562258160531797
+    },
+    {
+        "params": {
+            "l": 6,
+            "kernel_size": 40,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.6271824717562479,
+        "recall": 0.8495246927892418,
+        "f1_score": 0.721614967996061
+    },
+    {
+        "params": {
+            "l": 5,
+            "kernel_size": 48,
+            "disk_size": 6,
+            "diameter_threshold": 9
+        },
+        "accuracy": 0.5030163008599666,
+        "recall": 0.8858499095840868,
+        "f1_score": 0.6416700777732297
+    },
+    {
+        "params": {
+            "l": 2,
+            "kernel_size": 48,
+            "disk_size": 4,
+            "diameter_threshold": 10
+        },
+        "accuracy": 0.6590945194598888,
+        "recall": 0.8284744408945687,
+        "f1_score": 0.7341413783951164
+    }
+]
